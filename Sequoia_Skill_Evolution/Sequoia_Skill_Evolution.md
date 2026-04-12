@@ -52,10 +52,10 @@
 
 ---
 
-## 阶段四：对齐"万魂幡"最高标准 (Anyone-to-Skill Alignment)
+## 阶段四：Anyone-to-Skill Alignment
 
 ### 10. `v4.0_sequoia-anyone-to-skill-final` (当前 GitHub `main` 分支版本)
-- **做了哪些调整**：为了适配"万魂幡"（Anyone to Skill）的单文件调用机制，我们对庞大的知识库进行了极限浓缩，并严格对齐了马斯克（Elon Musk）Skill 的 5 大设计标准：
+- **做了哪些调整**：为了适配Anyone to Skill的单文件调用机制，我们对庞大的知识库进行了极限浓缩：
   1. **核心人格（Persona）**：从第三人称指令改为第一人称附身（"我是 Sequoia 的合伙人..."）。
   2. **心智模型绑定真实案例**：将抽象原则与 Harvey、WhatsApp、YouTube 等真实投资案例绑定。
   3. **回答深度格式要求**：明确规定了"核心判断 → 空头攻击 → 案例展开 → 尖锐追问"的 200-400 字输出节奏。
